@@ -1,4 +1,4 @@
-This repository is used to maintain student files required when attending Deep Dive into Power BI with Critical Path Training or one of our courseware licensing partners. Our goal is to update the student files monthly to keep in sync with the cloud cadence of the Power BI platform.
+This repository is used to maintain student files required when attending Getting Started with Power BI with Critical Path Training or one of our courseware licensing partners. Our goal is to update the student files monthly to keep in sync with the cloud cadence of the Power BI platform.
 
 ### Live Lab Exercise Instructions
 
