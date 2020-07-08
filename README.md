@@ -1,5 +1,8 @@
 This repository is used to maintain student files required when attending Getting Started with Power BI with Critical Path Training or one of our courseware licensing partners. Our goal is to update the student files monthly to keep in sync with the cloud cadence of the Power BI platform.
 
+### Download Student Files in single ZIP archive
+  - [Download Student ZIP](https://github.com/CriticalPathTraining/GSPBI/archive/master.zip)
+
 ### Live Lab Exercise Instructions
 
 - Module 1: Getting Up and Running with the Power BI Service
